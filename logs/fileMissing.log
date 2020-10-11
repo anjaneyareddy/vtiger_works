@@ -1,0 +1,7 @@
+Traced on 2020-10-11 05:18:59
+FileAccessForInclusion - 
+/Applications/XAMPP/xamppfiles/htdocs/vtiger_works/include/utils/CommonUtils.php::checkFileAccessForInclusion::388<br>
+/Applications/XAMPP/xamppfiles/htdocs/vtiger_works/includes/Loader.php::checkFileAccessForInclusion::65<br>
+/Applications/XAMPP/xamppfiles/htdocs/vtiger_works/includes/Loader.php::includeOnce::191<br>
+/Applications/XAMPP/xamppfiles/htdocs/vtiger_works/includes/main/WebUI.php::vimport::15<br>
+/Applications/XAMPP/xamppfiles/htdocs/vtiger_works/index.php::include_once::17<br>
