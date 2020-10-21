@@ -1,4 +1,5 @@
 
 *.DS_Store
 config.inc.php
+test
 test/
